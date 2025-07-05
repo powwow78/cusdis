@@ -1,7 +1,7 @@
 {
   "name": "cusdis",
    "engines": {
-    "node": "20.x"
+    "node": "18.x"
   },
   "scripts": {
     "dev": "DB_TYPE=sqlite npm run dev:general",
